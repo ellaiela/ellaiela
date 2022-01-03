@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ellaiela
-- 👀 I’m interested in becoming a web developer
-- 🌱 I’m currently learning basic responsive web design
+- 👀 I’m interested in becoming a full stack web developer
+- 🌱 I’m currently learning basic javascript
 - 💞️ I’m looking to collaborate on beginner projects
 - 📫 You can reach me through my gmail address: bautista.iela14@gmail.com
 
