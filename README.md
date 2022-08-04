@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Juniela
 - 👀 I’m interested in becoming a front-end developer
-- 🌱 I’m currently learning vanilla javascript
-- 💞️ I’m looking to collaborate on beginner projects
+- 🌱 I’m currently learning ReactJS
+- 💞️ I’m looking to collaborate on projects
 - 📫 You can reach me through my gmail address: bautista.iela14@gmail.com
 
 <!---
