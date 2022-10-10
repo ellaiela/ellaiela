@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Juniela
-- 👀 I’m interested in becoming a full-stack developer
+- 👀 I’m interested in becoming a front-end developer
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on front-end projects
 - 📫 You can reach me through my gmail address: bautista.iela14@gmail.com
